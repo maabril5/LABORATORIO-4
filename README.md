@@ -30,3 +30,27 @@ MAPA CONCEPTUAL.
 
 ![image](https://user-images.githubusercontent.com/117920423/209262469-c8c1285a-3ca5-4b3f-9ccd-f10e21c394c0.png)
 
+3. EXPLICACIÓN DEL PROCEDIMIENTO.
+
+Los materiales necesarios para realizar el laboratorio 4 son:
+
+![image](https://user-images.githubusercontent.com/117920423/209262788-ac850e46-2d73-4434-affc-b01633b831f4.png)
+
+3.1 Se analizó de forma detenida el circuito proporcionado por el profesor.
+
+![image](https://user-images.githubusercontent.com/117920423/209263643-ef6d28bf-2fce-4f93-82c7-f4b93d60ce2c.png)
+
+3.2 Se construyó el circuito en el laboratorio virtual Tinkercad y también fisicamente.
+
+
+
+
+
+
+
+
+
+
+
+
+
