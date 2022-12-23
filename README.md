@@ -54,9 +54,15 @@ Los materiales necesarios para realizar el laboratorio 4 son:
 
 ![image](https://user-images.githubusercontent.com/117920423/209264113-b79d4bc3-25b6-4e99-b204-d19cc35ff09e.png)
 
-![image](https://user-images.githubusercontent.com/117920423/209265822-be5a80ae-411f-4f49-a481-bfde4667e97e.png)
+TABLA 4.1
 
-3.3 Cálculos Analíticos:
+![image](https://user-images.githubusercontent.com/117920423/209266049-08aec30b-aa0b-4ad1-b430-a089180bd936.png)
+
+TABLA 4.2
+
+![image](https://user-images.githubusercontent.com/117920423/209266083-4e741831-6454-4ab9-b8aa-eb89be27a1f2.png)
+
+5. Cálculos Analíticos:
 
 Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.
 
@@ -64,18 +70,18 @@ Verifique el cumplimiento del Teorema de Superposición y compare los resultados
 
 ![image](https://user-images.githubusercontent.com/117920423/209264570-f0d6e62f-fb6f-4c21-bcee-d16da1ca5995.png)
 
-3.4 TEOREMA DE SUPERPOSICIÓN
+5.1. TEOREMA DE SUPERPOSICIÓN
 
 ![image](https://user-images.githubusercontent.com/117920423/209264665-cbafcf46-4054-469f-996d-12ccb960dee4.png)
 
-3.5 Cálculamos el porcentaje de error presente en nuestros cálculos:
+5.2 Cálculamos el porcentaje de error presente en nuestros cálculos:
 
 ![image](https://user-images.githubusercontent.com/117920423/209264736-6762c639-c875-4e8c-b5d8-5500cbb3d89e.png)
 
-4. VIDEO.
+6. VIDEO.
 
 
-5. CONCLUSIONES.
+7. CONCLUSIONES.
 
 •	Se analizó el circuito eléctrico resistivo de manera simulada, experimental y se calculó cada valor correspondiente a la práctica. 
 
@@ -83,7 +89,7 @@ Verifique el cumplimiento del Teorema de Superposición y compare los resultados
 
 •	Se calculó analíticamente los valores de voltaje y corriente correspondientes a la práctica mediante el método de mallas los cuales se utilizaron para la comparación y rectificación de lo valores medidos y simulados
 
-6. BIBLIOGRAFÍA.
+8. BIBLIOGRAFÍA.
 
 - Sector Energía Eléctrica (2020) METODO DE NODOS en CIRCUITOS ELECTRICOS con FUENTES DE VOLTAJE : https://youtu.be/h4ztT25Yh-s
 
