@@ -66,7 +66,7 @@ TABLA 4.1
 
 TABLA 4.2
 
-![image](https://user-images.githubusercontent.com/117920423/209266083-4e741831-6454-4ab9-b8aa-eb89be27a1f2.png)
+![image](https://user-images.githubusercontent.com/117920423/209274228-ccdd5e7c-f242-45d9-8b88-07334f272399.png)
 
 5. Cálculos Analíticos:
 
@@ -82,7 +82,7 @@ Verifique el cumplimiento del Teorema de Superposición y compare los resultados
 
 5.2 Cálculamos el porcentaje de error presente en nuestros cálculos:
 
-![image](https://user-images.githubusercontent.com/117920423/209264736-6762c639-c875-4e8c-b5d8-5500cbb3d89e.png)
+![image](https://user-images.githubusercontent.com/117920423/209274291-6727a15b-8c80-432e-b66a-4da41f8076ed.png)
 
 6. VIDEO.
 
