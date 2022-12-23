@@ -1,7 +1,5 @@
 # LABORATORIO-4
 
-[![image](https://user-images.githubusercontent.com/117920423/209266695-8532127a-dd05-437f-8085-37aaf8e6a897.png)](https://www.espe.edu.ec/wp-content/uploads/2022/01/ESPEtransparente.png)
-
 Integrantes:
 
 - Abril Alejandro
