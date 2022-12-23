@@ -86,6 +86,7 @@ Verifique el cumplimiento del Teorema de Superposición y compare los resultados
 
 6. VIDEO.
 
+https://youtube.com/watch?v=YLC8Zk6GVFU&si=EnSIkaIECMiOmarE
 
 7. CONCLUSIONES.
 
