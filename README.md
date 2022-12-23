@@ -46,13 +46,19 @@ Los materiales necesarios para realizar el laboratorio 4 son:
 
 ![image](https://user-images.githubusercontent.com/117920423/209263920-0adc90ba-4f62-4352-b7de-9c1be03e3d61.png)
 
+![image](https://user-images.githubusercontent.com/117920423/209266378-b91c2a23-f014-4e84-8b41-90ade88883cf.png)
+
 - Haga “cero” la fuente de voltaje de 3 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
 ![image](https://user-images.githubusercontent.com/117920423/209263996-924e88da-9a97-41c1-84bb-cb476c657a0e.png)
 
+![image](https://user-images.githubusercontent.com/117920423/209266401-272a1bb1-2536-4a30-b9e7-b314f079e828.png)
+
 - Haga “cero” la fuente de voltaje de 10 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
 ![image](https://user-images.githubusercontent.com/117920423/209264113-b79d4bc3-25b6-4e99-b204-d19cc35ff09e.png)
+
+![image](https://user-images.githubusercontent.com/117920423/209266421-1edb807f-c89a-4264-bd82-c3798853a693.png)
 
 TABLA 4.1
 
