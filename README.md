@@ -74,7 +74,7 @@ Verifique el cumplimiento del Teorema de Superposición y compare los resultados
 
 ![image](https://user-images.githubusercontent.com/117920423/209264536-64ae3cb9-737e-4cba-a8d8-15a1df691b88.png)
 
-![image](https://user-images.githubusercontent.com/117920423/209264570-f0d6e62f-fb6f-4c21-bcee-d16da1ca5995.png)
+![image](https://user-images.githubusercontent.com/117920423/209274110-56e42838-5988-4169-a09b-a3c72bc85e34.png)
 
 5.1. TEOREMA DE SUPERPOSICIÓN
 
