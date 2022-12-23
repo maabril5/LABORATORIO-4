@@ -82,7 +82,7 @@ Verifique el cumplimiento del Teorema de Superposición y compare los resultados
 
 5.2 Cálculamos el porcentaje de error presente en nuestros cálculos:
 
-![image](https://user-images.githubusercontent.com/117920423/209274291-6727a15b-8c80-432e-b66a-4da41f8076ed.png)
+![image](https://user-images.githubusercontent.com/117920423/209274411-af8d1384-0001-447f-b7ee-183755860fb9.png)
 
 6. VIDEO.
 
